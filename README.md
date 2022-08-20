@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is EZ-ZAROUALY Mohamed
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am MohamedEZ-ZAROUALY, a final-year computer science engineering student. I m 21 years ld and I'm currently looking for an end of studies internship.
 
