@@ -2,9 +2,14 @@
 
 I am MohamedEZ-ZAROUALY, a final-year computer science engineering student. I am 21 years ld and I'm currently looking for an end of studies internship.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohamedEZ-ZAROUALY )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-ez-zaroualy-6358781b4/overlay/contact-info/?locale=en_US)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.zr.73594)  
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohamedez-zaroualy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/mohamedez-zaroualy/en?trk=profile-badge">Mohamed EZ-ZAROUALY</a></div>
+              
+              
 - 📫 How to reach me: ezzaroualymuhammad@gmailcom
 
 <h3 align="left">Skills and Tools:</h3>
