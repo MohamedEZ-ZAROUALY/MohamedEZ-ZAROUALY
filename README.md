@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is EZ-ZAROUALY Mohamed
-
 I am Mohamed EZ-ZAROUALY, 
 a final-year computer science engineering student.
 
