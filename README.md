@@ -3,7 +3,6 @@
 I am Mohamed EZ-ZAROUALY,
 
 
-
 a final-year computer science engineering student.
 
 I am 21 years old and I'm currently looking for an end of studies internship.
